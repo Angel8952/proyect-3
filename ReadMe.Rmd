@@ -2,7 +2,9 @@
 title: "Getting and Cleaning Data Project"
 author: "Villegas Moctezuma Angel Alejandro"
 date: "10 de septiembre de 2020"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 ---
 
 #Proyect Tasks
