@@ -47,4 +47,3 @@ merged <- reshape2::melt(data = merged, id = c("SubjectNum", "Activity"))
 merged <- reshape2::dcast(data = merged, SubjectNum + Activity ~ variable, fun.aggregate = mean)
 
 data.table::fwrite(x = merged, file = "tidyData.txt", quote = FALSE)
-#
