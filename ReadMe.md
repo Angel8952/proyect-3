@@ -15,13 +15,13 @@ output:
 
 
 # Source
-The data and its information was obtained from here [data](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+The data and its information was obtained from  [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 # Links to the items needed
-1. [ReadMe]()
-2. [Run_analysis.R]()
-3. [Tidy Data Set]()
-4. [GitHub Repo]()
-5. [CookBook]()
+1. [ReadMe](https://github.com/Angel8952/proyect-3/blob/master/ReadMe.md)
+2. [Run_analysis.R](https://github.com/Angel8952/proyect-3/blob/master/run_analysis.R)
+3. [Tidy Data Set](https://github.com/Angel8952/proyect-3/blob/master/tidyData.txt)
+4. [GitHub Repo](https://github.com/Angel8952/proyect-3)
+5. [CodeBook](https://github.com/Angel8952/proyect-3/blob/master/CookBook.md)
 
 
